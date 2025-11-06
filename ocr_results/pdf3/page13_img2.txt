@@ -1,0 +1,47 @@
+Netwire
+
+Dridex
+
+TaurusStealer
+
+Netwire
+Dridex
+TaurusStealer
+Formbook Formbook
+TA505 TA505
+ZLoader ZLoader
+Emotet Emotet
+TrickBot TrickBot
+Qbot Qbot
+Gozi_Ifsb Gozi_Ifsb
+Remcos Remcos
+Loki
+Smokeloader
+masslogger
+IcedID
+Hancitor
+
+Loki
+AgenttTesla
+
+Smokeloader
+
+masslogger
+IcedID
+
+Hancitor
+
+families, according to the perceptual hash of the images
+
+o o
+S 8
+S 9
+nH W
+WY
+g 2
+(7)
+
+AgenttTesla
+(a) Heat map of the amount of unique images used by different (b) Heat map of the amount of unique images used by different
+
+families, according to the SHA-256 of the images.
