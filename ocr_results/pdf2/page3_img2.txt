@@ -1,0 +1,5 @@
+Exfiltration
+
+Phishing email Office file LOLBAS Binary hosting URLs Malware
+Usually from a known Link or attached
+sender
