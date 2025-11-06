@@ -1,4 +1,5 @@
-. 3 |
+--- Without Resize
+                    . 3 |
 icied
 3 costing Vieualication:
 
@@ -7,4 +8,23 @@ Decrypt Unzip files Extract Hashes & OCR Data
 images storage _ processing
 
 MS Office
+files XLSB files
+
+
+                    --- With Resize
+                    Ww
+~ = ey
+
+‘ap
+Data Classification &
+Visualisation
+
+L =
+Hashes & OCR Data
+storage processing
+
+Unzip files Extract
+images
+
+MS Office Decrypt
 files XLSB files

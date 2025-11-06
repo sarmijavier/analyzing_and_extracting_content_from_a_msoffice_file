@@ -1,4 +1,13 @@
-®)
+--- Without Resize
+                    ®)
+
+Check for
+updates
+
+
+
+                    --- With Resize
+                    ®
 
 Check for
 updates

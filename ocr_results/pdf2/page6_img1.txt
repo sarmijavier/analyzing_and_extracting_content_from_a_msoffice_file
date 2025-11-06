@@ -1,4 +1,5 @@
-Records identified
+--- Without Resize
+                    Records identified
 
 through database
 searching
@@ -88,3 +89,58 @@ included (n
 Records excluded
 based on full-text
 (n= 15)
+
+
+
+                    --- With Resize
+                    First Search
+
+Records identified
+through database Records duplicated
+
+Records identified Records identified
+
+through database Records duplicated through database
+searching (n = 325) searching
+
+Records screened Records screened
+(n = 784) (n= 145)
+
+Records duplicated
+
+(n = 245)
+
+searching (n = 34)
+
+Identification
+
+Records screened
+
+(n = 1885)
+ty
+& Title screening anu exchitee
+= (n= 1885) based on title
+2 n= 1316
+7)
+an
+Abstract screening Records excluded Abstract screening Records excluded Abstract screening Records excluded
+= 569 based on abstract = 784 based on abstract (n= 145) based on abstract
+(n= 569) (n= 415) Gers) n=770 n= 130
+Full-text articles Records excluded Full-text articles Records excluded Full-text articles Records excluded
+assessed for eligibility based on full-text assessed for eligibility based on full-text assessed for eligibility based on full-text
+(n = 154) (n = 130) (n = 14) (n = 12) (n = 15) (n = 15)
+
+Number ofarticles | ee Number of articles Number of articles
+included (n = 24) included (n = 2) included (n = 0)
+
+Total articles included in qualitative synthesis and analysis (n = 26)
+
+=
+—]
+—
+wn
+=
+—
+J
+=
+—

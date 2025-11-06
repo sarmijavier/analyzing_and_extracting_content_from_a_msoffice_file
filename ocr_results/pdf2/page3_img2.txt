@@ -1,5 +1,25 @@
-Exfiltration
+--- Without Resize
+                    Exfiltration
 
 Phishing email Office file LOLBAS Binary hosting URLs Malware
 Usually from a known Link or attached
+sender
+
+
+                    --- With Resize
+                    Exfiltration
+
+|
+|
+|
+|
+|
+|
+V
+
+mm |
+O:ipR
+Phishing email Office file LOLBAS Binary hosting URLs Malware
+Usually from a known Link or attached
+
 sender

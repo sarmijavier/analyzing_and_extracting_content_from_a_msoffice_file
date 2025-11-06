@@ -1,4 +1,5 @@
-(B
+--- Without Resize
+                    (B
 (B
 
 xml
@@ -35,3 +36,95 @@ l
 
 l
 media image.png media image.jpg
+
+
+                    --- With Resize
+                    docProps core.xml
+file.docx P
+app.xml
+word settings.xml
+
+Le
+
+styles.xml
+
+(EB
+
+[a
+
+doc
+
+C.
+
+ment.xm
+
+B
+
+webSettings.xml
+
+”
+
+E,
+
+fontTable.xml
+
+Le
+
+theme theme.xml
+
+media image.png
+
+file.xlsx docProps
+
+xl
+
+worksheets
+
+theme
+
+i i i ee a a a ee a a i ee i a i ee a a ae
+
+media
+
+=
+)
+
+core.xml
+
+(B
+
+A)
+Oo
+Ny
+x
+=)
+
+(
+
+kbook.x
+
+3
+
+(B
+
+styles.xml
+
+B
+
+sharedStrings.xml
+
+(
+
+calcChain.xml
+
+E
+
+sheet.xml
+
+B
+
+theme.xml
+
+ie
+
+image.jpg

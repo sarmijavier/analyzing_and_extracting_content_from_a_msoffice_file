@@ -1,4 +1,5 @@
-Netwire
+--- Without Resize
+                    Netwire
 
 Dridex
 
@@ -40,6 +41,61 @@ nH W
 WY
 g 2
 (7)
+
+AgenttTesla
+(a) Heat map of the amount of unique images used by different (b) Heat map of the amount of unique images used by different
+
+families, according to the SHA-256 of the images.
+
+
+                    --- With Resize
+                    Netwire
+
+Netwire
+Dridex Dridex
+TaurusStealer TaurusStealer
+Formbook Formbook
+TA505 TA505
+ZLoader ZLoader
+Emotet Emotet
+TrickBot TrickBot
+Qbot Qbot
+Gozi_lIfsb Gozi_lfsb
+Remcos
+Loki
+Smokeloader
+masslogger
+IcedID
+
+Remcos
+Hancitor
+
+Loki
+AgenttTesla
+
+Smokeloader
+masslogger |
+IcedID
+
+X
+4
+0)
+s
+%)
+2
+
+Hancitor
+
+families, according to the perceptual hash of the images
+
+XS Sf
+o WY
+9 §
+yD
+HY
+Ee &
+
+Y)
 
 AgenttTesla
 (a) Heat map of the amount of unique images used by different (b) Heat map of the amount of unique images used by different

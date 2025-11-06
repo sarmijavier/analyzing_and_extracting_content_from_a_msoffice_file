@@ -1,4 +1,5 @@
-|
+--- Without Resize
+                    |
 
 a
 
@@ -25,3 +26,17 @@ d
 ]
 
 pee! ler
+
+
+                    --- With Resize
+                    |
+
+|@
+
+mm (1,0,1,...,0,0,1)
+
+; ;
+LL
+i
+
+ —~,

@@ -1,4 +1,5 @@
-DS Mickey's Pantry
+--- Without Resize
+                    DS Mickey's Pantry
 
 This document protected by owner privacy
 
@@ -23,3 +24,32 @@ Microsoft Office Excel
 
 To view this content, please click "Enable Editing" form the yellow bar and then click
 “Enable Content"
+
+
+
+                    --- With Resize
+                    DS Micxev's Pantry
+
+This document protected by owner privacy
+
+policy.
+Please, press "Enable Content" for details.
+
+W Document created in earlier version of Microsoft
+Office Word
+
+To view this content, please click “Enable Editing” form the yellow bar and then click
+"Enable Content"
+
+Please enable Editing and Content to see this document.
+
+Oo
+
+Media dynamic content
+plugin missing
+
+Document created in earlier version of
+Microsoft Office Excel
+
+To view this content, please click "Enable Editing" form the yellow bar and then click
+“Enable Content”

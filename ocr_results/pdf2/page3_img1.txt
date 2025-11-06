@@ -1,4 +1,5 @@
-mid-1990s
+--- Without Resize
+                    mid-1990s
 
 First large scale
 phishing campaigns
@@ -31,6 +32,52 @@ Parmar, 2012
 ~2010 onwards
 
 Research of human.
+factors (e.g.,
+demographics)
+Sheng et al., 2010
+
+2023 onwards
+
+Generative Al-driven
+phishing and adaptive
+attacks
+Schmitt & Flechais, 2024
+
+
+                    --- With Resize
+                    mid-1990s
+First large scale
+
+phishing campaigns
+McClure, 1998
+
+2003
+
+Social engineering
+concept popularised
+Mitnick et al., 2003
+
+mid-2000s
+
+Generic awareness/
+anti-phishing
+campaigns
+Dhamija et al., 2006
+
+2010 onwards 2013 onwards
+
+Introduction of
+personality-based
+studies
+Halevi et al., 2013
+
+Evolution of spear-
+phishing techniques
+Parmar, 2012
+
+~2010 onwards
+
+Research of human
 factors (e.g.,
 demographics)
 Sheng et al., 2010
