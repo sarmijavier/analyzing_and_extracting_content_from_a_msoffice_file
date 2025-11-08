@@ -1,0 +1,16 @@
+--- Without Resize
+                    1 Office 365
+
+This document created in online version of Microsoft Office Word
+
+To view or edit this document, please click "Enable editing" button
+‘on the top yellow bar, and then click "Enable content”
+
+
+                    --- With Resize
+                    SJ Office 365
+
+This document created in online version of Microsoft Office Word
+
+To view or edit this document, please click "Enable editing" button
+on the top yellow bar, and then click "Enable content"

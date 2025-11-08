@@ -1,6 +1,0 @@
---- Without Resize
-                    FI SEVIER
-
-
-                    --- With Resize
-                    ELSEVIER
